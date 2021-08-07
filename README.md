@@ -1,4 +1,4 @@
-![](docs/logo.png)
+![](https://codeup.aliyun.com/610d1b3276b0c8e58d7869b0/net.mediateeee.calculator.plus/raw/master/doc/logo.png)
 ### 3 分钟了解如何进入开发
 
 欢迎使用云效 Codeup，通过阅读以下内容，你可以快速熟悉 Codeup ，并立即开始今天的工作。
