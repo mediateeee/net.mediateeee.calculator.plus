@@ -12,7 +12,7 @@
 
 ### 其他仓库
 
-您现在所处的位置是 [ Gitee ](https://gitee.com/mediateeee/calculator.plus/) 
+您现在所处的位置是 [ Gitee ](https://gitee.com/mediateeee/calculator.plus/) <br>
 这里还有其他仓库：
 [ GitHub ](https://github.com/mediateeee/net.mediateeee.calculator.plus/) 
 [ Codeup ](https://codeup.aliyun.com/610d1b3276b0c8e58d7869b0/net.mediateeee.calculator.plus/)  
