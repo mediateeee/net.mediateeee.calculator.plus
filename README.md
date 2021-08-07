@@ -1,4 +1,4 @@
-![](https://gitee.com/mediateeee/calculator.plus/raw/master/doc/logo.png)
+![](https://raw.githubusercontent.com/Mediateeee/net.mediateeee.calculator.plus/master/doc/logo.png)
 ### 介绍‎
 
  超级计算器 是 基于 [AndroLua](https://github.com/mkottman/AndroLua) (GitHub) 的 网页计算器，它基于 百度作业帮 的 在线计算器 功能（其实就是单独把 百度作业帮 里面的 在线计算器 功能 提了出来，然后单独做的 app ）。他能做到的有：
